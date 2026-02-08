@@ -13,4 +13,6 @@ Var
   Escreval("Quantos anos voce tem ", Nome)
   Leia(Idade)
   Escreval(Idade ," Ja esta bem crescido mesmo")
+
+  FimAlgoritmo
   
