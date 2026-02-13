@@ -1,4 +1,4 @@
-# Beginner-Algorithms
+logica-de-programacao
 
 Algoritmo "Primeiro treino"
 
